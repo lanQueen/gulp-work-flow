@@ -1,15 +1,15 @@
 {
-  "name": "gulp-work-flow",
-  "version": "0.1.0",
+  "name": "yuyu-flow",
+  "version": "0.2.0",
   "description": "Awesome node module",
   "keywords": [
-    "gulp-work-flow",
+    "yuyu-flow",
     "cli",
     "zce"
   ],
-  "homepage": "https://github.com/ling_yu/gulp-work-flow#readme",
+  "homepage": "https://github.com/ling_yu/yuyu-flow#readme",
   "bugs": {
-    "url": "https://github.com/ling_yu/gulp-work-flow/issues"
+    "url": "https://github.com/ling_yu/yuyu-flow/issues"
   },
   "license": "MIT",
   "author": "ling_yu <ling_yu@dnt.com.cn>",
@@ -18,16 +18,13 @@
     "lib"
   ],
   "main": "lib/index.js",
-  "bin": "bin/gulp-work-flow.js",
-  "bin": {
-    "gulp-work-flow": "bin/gulp-work-flow.js"
-  },
+  "bin": "bin/yuyu-flow.js",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ling_yu/gulp-work-flow.git"
+    "url": "git+https://github.com/ling_yu/yuyu-flow.git"
   },
   "scripts": {
     "lint": "standard --fix"
