@@ -1,4 +1,4 @@
-# gulp-work-flow
+# yuyu-flow
 
 [![NPM Downloads][downloads-image]][downloads-url]
 [![NPM Version][version-image]][version-url]
@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ yarn add gulp-work-flow
+$ yarn add yuyu-flow
 
 # or npm
-$ npm install gulp-work-flow
+$ npm install yuyu-flow
 ```
 
 ## Usage
@@ -23,8 +23,8 @@ $ npm install gulp-work-flow
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const gulpWorkFlow = require('gulp-work-flow')
-const result = gulpWorkFlow('zce')
+const gulpWorkFlow = require('yuyu-flow')
+const result = yuyuFlow('zce')
 // result => 'zce@zce.me'
 ```
 
@@ -32,7 +32,7 @@ const result = gulpWorkFlow('zce')
 
 <!-- TODO: Introduction of API -->
 
-### gulpWorkFlow(name[, options])
+### yuyuFlow(name[, options])
 
 #### name
 
@@ -52,16 +52,16 @@ const result = gulpWorkFlow('zce')
 <!-- TODO: Introduction of CLI -->
 
 ```shell
-$ yarn global add gulp-work-flow
+$ yarn global add yuyu-flow
 
 # or npm
-$ npm install gulp-work-flow -g
+$ npm install yuyu-flow -g
 ```
 
 ```shell
-$ gulp-work-flow --help
+$ yuyu-flow --help
 
-  Usage: gulp-work-flow <input>
+  Usage: yuyu-flow <input>
 
   Options:
 
@@ -87,15 +87,15 @@ $ gulp-work-flow --help
 
 
 
-[downloads-image]: https://img.shields.io/npm/dm/gulp-work-flow.svg
-[downloads-url]: https://npmjs.org/package/gulp-work-flow
-[version-image]: https://img.shields.io/npm/v/gulp-work-flow.svg
-[version-url]: https://npmjs.org/package/gulp-work-flow
-[license-image]: https://img.shields.io/github/license/ling_yu/gulp-work-flow.svg
-[license-url]: https://github.com/ling_yu/gulp-work-flow/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david/ling_yu/gulp-work-flow.svg
-[dependency-url]: https://david-dm.org/ling_yu/gulp-work-flow
-[devdependency-image]: https://img.shields.io/david/dev/ling_yu/gulp-work-flow.svg
-[devdependency-url]: https://david-dm.org/ling_yu/gulp-work-flow?type=dev
+[downloads-image]: https://img.shields.io/npm/dm/yuyu-flow.svg
+[downloads-url]: https://npmjs.org/package/yuyu-flow
+[version-image]: https://img.shields.io/npm/v/yuyu-flow.svg
+[version-url]: https://npmjs.org/package/yuyu-flow
+[license-image]: https://img.shields.io/github/license/ling_yu/yuyu-flow.svg
+[license-url]: https://github.com/ling_yu/yuyu-flow/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/ling_yu/yuyu-flow.svg
+[dependency-url]: https://david-dm.org/ling_yu/yuyu-flow
+[devdependency-image]: https://img.shields.io/david/dev/ling_yu/yuyu-flow.svg
+[devdependency-url]: https://david-dm.org/ling_yu/yuyu-flow?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
