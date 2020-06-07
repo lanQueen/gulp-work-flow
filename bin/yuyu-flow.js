@@ -10,7 +10,7 @@ process.argv.push('--gulpfile');
 process.argv.push(require.resolve('..'));
 require('gulp/bin/gulp');
 
-console.log(process.argv); 
+// console.log(process.argv); 
 // [
 //   '/usr/local/bin/node',
 //   '/usr/local/bin/yuyu-flow',
