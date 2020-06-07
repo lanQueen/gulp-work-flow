@@ -10,12 +10,12 @@ process.argv.push('--gulpfile');
 process.argv.push(require.resolve('..'));
 require('gulp/bin/gulp');
 
-// console.log(process.argv); 
+console.log(process.argv); 
 // [
 //   '/usr/local/bin/node',
-//   '/usr/local/bin/gulp-work-flow',
+//   '/usr/local/bin/yuyu-flow',
 //   '--cwd',
-//   '/Users/yuling/program/myFiles/ECMAScript/frontend/P2/M1-AutoBuild/gulp/gulp-work-flow',
+//   '/Users/yuling/program/myFiles/ECMAScript/frontend/P2/M1-AutoBuild/gulp/yuyu-flow',
 //   '--gulpfile',
-//   '/Users/yuling/program/myFiles/ECMAScript/frontend/P2/M1-AutoBuild/gulp/gulp-work-flow/lib/index.js'
+//   '/Users/yuling/program/myFiles/ECMAScript/frontend/P2/M1-AutoBuild/gulp/yuyu-flow/lib/index.js'
 // ]
