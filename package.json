@@ -1,0 +1,44 @@
+{
+  "name": "gulp-work-flow",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "gulp-work-flow",
+    "cli",
+    "zce"
+  ],
+  "homepage": "https://github.com/ling_yu/gulp-work-flow#readme",
+  "bugs": {
+    "url": "https://github.com/ling_yu/gulp-work-flow/issues"
+  },
+  "license": "MIT",
+  "author": "ling_yu <ling_yu@dnt.com.cn>",
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "bin": {
+    "gulp-work-flow": "bin/gulp-work-flow.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ling_yu/gulp-work-flow.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {
+    "commander": "^2.20.0"
+  },
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "preferGlobal": true
+}
