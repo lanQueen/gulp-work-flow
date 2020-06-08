@@ -1,18 +1,18 @@
 {
   "name": "yuyu-flow",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Awesome node module",
   "keywords": [
     "yuyu-flow",
     "cli",
     "zce"
   ],
-  "homepage": "https://github.com/ling_yu/yuyu-flow#readme",
+  "homepage": "https://github.com/lanQueen/yuyu-flow#readme",
   "bugs": {
-    "url": "https://github.com/ling_yu/yuyu-flow/issues"
+    "url": "https://github.com/lanQueen/yuyu-flow/issues"
   },
   "license": "MIT",
-  "author": "ling_yu <ling_yu@dnt.com.cn>",
+  "author": "lanQueen <752177836@qq.com>",
   "files": [
     "bin",
     "lib"
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ling_yu/yuyu-flow.git"
+    "url": "git+https://github.com/lanQueen/yuyu-flow.git"
   },
   "scripts": {
     "lint": "standard --fix"
