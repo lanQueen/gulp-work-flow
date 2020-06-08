@@ -83,7 +83,7 @@ $ yuyu-flow --help
 
 ## License
 
-[MIT](LICENSE) &copy; ling_yu <ling_yu@dnt.com.cn>
+[MIT](LICENSE) &copy; lanQueen <752177836@qq.com>
 
 
 
@@ -91,11 +91,11 @@ $ yuyu-flow --help
 [downloads-url]: https://npmjs.org/package/yuyu-flow
 [version-image]: https://img.shields.io/npm/v/yuyu-flow.svg
 [version-url]: https://npmjs.org/package/yuyu-flow
-[license-image]: https://img.shields.io/github/license/ling_yu/yuyu-flow.svg
-[license-url]: https://github.com/ling_yu/yuyu-flow/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david/ling_yu/yuyu-flow.svg
-[dependency-url]: https://david-dm.org/ling_yu/yuyu-flow
-[devdependency-image]: https://img.shields.io/david/dev/ling_yu/yuyu-flow.svg
-[devdependency-url]: https://david-dm.org/ling_yu/yuyu-flow?type=dev
+[license-image]: https://img.shields.io/github/license/lanQueen/yuyu-flow.svg
+[license-url]: https://github.com/lanQueen/yuyu-flow/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/lanQueen/yuyu-flow.svg
+[dependency-url]: https://david-dm.org/lanQueen/yuyu-flow
+[devdependency-image]: https://img.shields.io/david/dev/lanQueen/yuyu-flow.svg
+[devdependency-url]: https://david-dm.org/lanQueen/yuyu-flow?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
