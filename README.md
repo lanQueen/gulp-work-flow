@@ -69,7 +69,14 @@ $ yuyu-flow --help
     -H, --host     Email host
     -h, --help     output usage information
 ```
+### e.g.
 
+```shell
+# Runs the app in development mode
+$ yuyu-gulp-sample serve --port 5210 --open
+# Builds the app for production to the `dist` folder
+$ yuyu-gulp-sample build --production
+```
 ## Contributing
 
 1. **Fork** it on GitHub!
